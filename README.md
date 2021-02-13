@@ -1,6 +1,5 @@
 # namechanger_twitter_youtube
 **This is the twitter name changer according to view count of a youtube video.** This version of code works in colab. 
-I made another version that doesn't need to get the channel information, but it doesn't run in colab, only runs in my local computer.
 
 Ex: 'Dod di dong' has: 149,132,558 views.
 ## References
